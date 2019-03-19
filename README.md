@@ -13,27 +13,6 @@
 
 ---
 
-## スキル
-| Skill | Experience | Note |
-----|----|----
-| Ruby | 2years | 最も使用頻度の高い言語。Railsで素早く開発するときに使用する言語。 |
-| Ruby On Rails | 2years | 最も使用頻度の高いフレームワーク。プロダクトを作る際にメインGunosyでの業務委託でも使用。 |
-| Python | 4month | 今、最も関心があり成長したい分野。Pythonを使用して個人でサービスも作った経験あり。 |
-| Django | 4month | Djangoを利用してTwitterAPIを用いたサービスを開発した経験あり。 |
-| MySQL | 1.5years | サービスおよび業務で使用経験あり。分析のためのクエリ作成は割と好き。 |
-| PostgreSQL | 1.5years | サービスおよび業務で使用経験あり。 |
-| Javascript | 2years | 個人開発では必ず使用する。 |
-| jQuery | 2years | 使用頻度高め。サービスでよく使用していた。 |
-| Vue.js | 6month | jQueryから乗り換えつつある。 |
-| HTML5 | 3years | LP作成など副業や実際に業務でもよく使用。 |
-| CSS3 | 3years | LP作成など副業や実際に業務でもよく使用。 |
-| Heroku | 1year | 個人開発で簡易に済ませる場合に選定する。 |
-| AWS | 6month | 個人開発で期待値が高い場合に選定する。 |
-| Git | 3years | 開発の際にはほとんどの場合でGitを用いる。 |
-| GitHub | 3years | サービスをリリースした際にはGitHubに載せている。 |
-
----
-
 ## 職務経歴
 ### 株式会社Gunosy
 【勤務期間】2018年12月〜2019年1月  
@@ -71,6 +50,27 @@
 【業務内容】
 - 転職会議に掲載する求人広告「転職会議ビジネス」の営業
 - 「転職会議ビジネス」「転職ナビ」経由での人材紹介
+
+---
+
+## スキル
+| Skill | Experience | Note |
+----|----|----
+| Ruby | 2years | 最も使用頻度の高い言語。Railsで素早く開発するときに使用する言語。 |
+| Ruby On Rails | 2years | 最も使用頻度の高いフレームワーク。プロダクトを作る際にメインGunosyでの業務委託でも使用。 |
+| Python | 4month | 今、最も関心があり成長したい分野。Pythonを使用して個人でサービスも作った経験あり。 |
+| Django | 4month | Djangoを利用してTwitterAPIを用いたサービスを開発した経験あり。 |
+| MySQL | 1.5years | サービスおよび業務で使用経験あり。分析のためのクエリ作成は割と好き。 |
+| PostgreSQL | 1.5years | サービスおよび業務で使用経験あり。 |
+| Javascript | 2years | 個人開発では必ず使用する。 |
+| jQuery | 2years | 使用頻度高め。サービスでよく使用していた。 |
+| Vue.js | 6month | jQueryから乗り換えつつある。 |
+| HTML5 | 3years | LP作成など副業や実際に業務でもよく使用。 |
+| CSS3 | 3years | LP作成など副業や実際に業務でもよく使用。 |
+| Heroku | 1year | 個人開発で簡易に済ませる場合に選定する。 |
+| AWS | 6month | 個人開発で期待値が高い場合に選定する。 |
+| Git | 3years | 開発の際にはほとんどの場合でGitを用いる。 |
+| GitHub | 3years | サービスをリリースした際にはGitHubに載せている。 |
 
 ---
 
